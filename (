@@ -1,0 +1,9 @@
+(prefix)altın-yazı
+
+```
+
+$nomention
+
+$image[ https://habbofont.net/font/gold_big/$message.gif]
+
+$argsCheck[>1;Altın Yazıya Çeviriceğim Bir Mesaj Gir!] ```
